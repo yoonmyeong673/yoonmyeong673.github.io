@@ -1,18 +1,26 @@
 ---
-layout: page
-title: About
+layout: default
+title: Myeong Yoon's Bibliotheca
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Myeong Yoon's Bibliotheca
+{: .fs-9 }
+Physics and Mathematics
+{: .fs-6 .fw-300 }
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+---
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Biography
 
+### Education
 
-[jekyll-organization]: https://github.com/jekyll
+2022-2024 (expected) Gyeonggi Science High School for the Gifted (40th)
+
+### Publications
+
+On the Mechanism of Chalk-Hopping (2022)
+
+The Method Determining Dyson Slingshot Trajectory of a Spacecraft Following a Rectilinear Path Using the Dynamic Discrete Gradient Descent (2022)
+
+[GSHS]: https://www.gs.hs.kr
