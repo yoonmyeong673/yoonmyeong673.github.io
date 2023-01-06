@@ -1,28 +1,8 @@
 ---
-layout: default
-title: Myeong Yoon's Bibliotheca
-nav_order: 1
-description: "Physics and Mathematics"
-permalink: /
+layout: home
+title: "Home"
 ---
 
-# Myeong Yoon's Bibliotheca
-{: .fs-9 }
-Physics and Mathematics
-{: .fs-6 .fw-300 }
+This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
 
----
-
-## Biography
-
-### Education
-
-2022-2024 (expected) Gyeonggi Science High School for the Gifted (40th)
-
-### Publications
-
-On the Mechanism of Chalk-Hopping (2022)
-
-The Method Determining Dyson Slingshot Trajectory of a Spacecraft Following a Rectilinear Path Using the Dynamic Discrete Gradient Descent (2022)
-
-[GSHS]: https://www.gs.hs.kr
+Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.

@@ -1,46 +1,12 @@
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-
-  <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | relative_url }}">
-
-  {% if site.ga_tracking != nil %}
-    {% assign ga_tracking_ids = site.ga_tracking | split: "," %}
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ ga_tracking_ids.first }}"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      {% for ga_property in ga_tracking_ids %}
-        gtag('config', '{{ ga_property }}'{% unless site.ga_tracking_anonymize_ip == nil %}, { 'anonymize_ip': true }{% endunless %});
-      {% endfor %}
-    </script>
-  {% endif %}
-
-  {% if site.search_enabled != false %}
-    <script src="{{ '/assets/js/vendor/lunr.min.js' | relative_url }}"></script>
-  {% endif %}
-
-  {% if site.mermaid %}
-    <script src="https://cdn.jsdelivr.net/npm/mermaid@{{ site.mermaid.version }}/dist/mermaid.min.js"></script>
-  {% endif %}
-
-  <script src="{{ '/assets/js/just-the-docs.js' | relative_url }}"></script>
-
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-  {% for file in site.static_files %}
-    {% if file.path == site.favicon_ico or file.path == '/favicon.ico' %}
-      {% assign favicon = true %}
-    {% endif %}
-  {% endfor %}
-  {% if favicon %}
-    <link rel="icon" href="{{ site.favicon_ico | default: '/favicon.ico' | relative_url }}" type="image/x-icon">
-  {% endif %}
-
-  {% seo %}
-
-  {% include head_custom.html %}
-
+  <meta charset="utf-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.github.url }}/assets/libs/bootstrap/bootstrap.min.css">
+  <script defer src="{{ site.github.url }}/assets/libs/fontawesome/all.min.js"></script>
+  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
+  <link rel="apple-touch-icon" sizes="152x152" href="{{ site.github.url }}/assets/apple-icon-152x152.png">
+  <link rel="shortcut icon" href="{{ site.github.url }}/assets/favicon.ico">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
 </head>
