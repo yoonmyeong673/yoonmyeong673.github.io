@@ -14,7 +14,7 @@ social:
 - {icon: 'github', link: 'https://github.com/LeNPaul'}
 - {icon: 'twitter', link: 'https://twitter.com/paululele'}
 - {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'mail', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
 - {name: 'Myeong Yoon', title: 'Student', department: 'Theoretical Physics', institution: 'Gyeonggi Science High School for the Gifted', institution_address: 'Suwon-si, Republic of Korea', phone: '+82 (0)10 3016 7688', email: 'yoonmyeong673@gmail.com'}
