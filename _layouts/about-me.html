@@ -12,7 +12,7 @@ layout: default
         <h4>Education</h4>
       </div>
       <div class="col-md-10">
-        {% for section in site.data.cv.education %}
+        {% for section in site.data.about-me.education %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
@@ -23,7 +23,7 @@ layout: default
         <h4>Current Interests</h4>
       </div>
       <div class="col-md-10">
-        {% for section in site.data.cv.current-interests %}
+        {% for section in site.data.about-me.current-interests %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
