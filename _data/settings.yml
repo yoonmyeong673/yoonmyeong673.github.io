@@ -5,15 +5,10 @@ menu:
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
-people:
-- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
-
 courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+- {name: 'General Physics', url: 'general-physics'}
+- {name: 'Electromagnetism', url: 'electromagnetism'}
+- {name: 'Differential Geometry', url: 'differential-geometry'}
 
 social:
 - {icon: 'github', link: 'https://github.com/LeNPaul'}
@@ -22,4 +17,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Myeong Yoon', title: 'Student', department: 'Theoretical Physics', institution: 'Gyeonggi Science High School for the Gifted', institution_address: 'Suwon-si, Republic of Korea', phone: '+82 (0)10 3016 7688', email: 'yoonmyeong673@gmail.com'}
