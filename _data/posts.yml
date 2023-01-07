@@ -1,0 +1,17 @@
+menu:
+- {name: 'ABOUT ME', url: '/about-me'}
+- {name: 'ARCHIVES', url: '/archives'}
+- {name: 'POSTS', url: '/posts'}
+- {name: 'CONTACT', url: '/contact'}
+
+archives:
+- {name: 'General Physics', url: 'general-physics'}
+- {name: 'Electromagnetism', url: 'electromagnetism'}
+- {name: 'Differential Geometry', url: 'differential-geometry'}
+- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+
+social:
+- {icon: 'envelope', link: 'mailto:yoonmyeong673@gmail.com'}
+
+contacts:
+- {name: 'Myeong Yoon', title: 'Student', interests: 'Theoretical Physics', school: 'Gyeonggi Science High School for the Gifted', number: '40th', phone: '+82 (0)10 3016 7688', email: 'yoonmyeong673@gmail.com'}
