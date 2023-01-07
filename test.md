@@ -1,4 +1,0 @@
----
-layout: test
-title: "Test"
----

@@ -1,10 +1,9 @@
 menu:
 - {name: 'ABOUT ME', url: '/about-me'}
 - {name: 'ARCHIVES', url: '/archives'}
+- {name: 'POSTS', url: '/posts'}
 - {name: 'PUBLICATIONS', url: '/publications'}
-- {name: 'CONTACT', url: '/test'}
-- {name: 'TEST', url '/contact'}
-- {name: 'TEST2', url '/test2'}
+- {name: 'CONTACT', url: '/contact'}
 
 courses:
 - {name: 'General Physics', url: 'general-physics'}
