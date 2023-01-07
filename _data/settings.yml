@@ -10,7 +10,7 @@ courses:
 - {name: 'Differential Geometry', url: 'differential-geometry'}
 
 social:
-- {icon: 'github', link: 'mailto:yoonmyeong673@gmail.com'}
+- {icon: 'google', link: 'mailto:yoonmyeong673@gmail.com'}
 
 contacts:
 - {name: 'Myeong Yoon', title: 'Student', interests: 'Theoretical Physics', school: 'Gyeonggi Science High School for the Gifted', number: '40th', phone: '+82 (0)10 3016 7688', email: 'yoonmyeong673@gmail.com'}
