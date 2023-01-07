@@ -3,6 +3,7 @@ menu:
 - {name: 'ARCHIVES', url: '/archives'}
 - {name: 'PUBLICATIONS', url: '/publications'}
 - {name: 'CONTACT', url: '/contact'}
+- {name: 'TEST', url '/test'}
 
 courses:
 - {name: 'General Physics', url: 'general-physics'}
