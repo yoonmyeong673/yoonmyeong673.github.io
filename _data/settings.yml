@@ -4,7 +4,7 @@ menu:
 - {name: 'POSTS', url: '/posts'}
 - {name: 'CONTACT', url: '/contact'}
 
-courses:
+archives:
 - {name: 'General Physics', url: 'general-physics'}
 - {name: 'Electromagnetism', url: 'electromagnetism'}
 - {name: 'Differential Geometry', url: 'differential-geometry'}
