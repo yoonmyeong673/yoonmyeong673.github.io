@@ -2,7 +2,7 @@ menu:
 - {name: 'ABOUT ME', url: '/about-me'}
 - {name: 'ARCHIVES', url: '/archives'}
 - {name: 'PUBLICATIONS', url: '/publications'}
-- {name: 'CONTACT', url: '/contact'}
+- {name: 'CONTACT', url: '/contacts'}
 - {name: 'TEST', url '/test'}
 - {name: 'TEST2', url '/test2'}
 
