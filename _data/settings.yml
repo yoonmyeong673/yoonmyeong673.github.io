@@ -8,6 +8,7 @@ archives:
 - {name: 'General Physics', url: 'general-physics'}
 - {name: 'Electromagnetism', url: 'electromagnetism'}
 - {name: 'Differential Geometry', url: 'differential-geometry'}
+- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 
 social:
 - {icon: 'google', link: 'mailto:yoonmyeong673@gmail.com'}
