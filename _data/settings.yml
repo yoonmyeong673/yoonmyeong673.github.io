@@ -2,8 +2,8 @@ menu:
 - {name: 'ABOUT ME', url: '/about-me'}
 - {name: 'ARCHIVES', url: '/archives'}
 - {name: 'PUBLICATIONS', url: '/publications'}
-- {name: 'CONTACT', url: '/contacts'}
-- {name: 'TEST', url '/test'}
+- {name: 'CONTACT', url: '/test'}
+- {name: 'TEST', url '/contact'}
 - {name: 'TEST2', url '/test2'}
 
 courses:
