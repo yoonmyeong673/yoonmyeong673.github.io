@@ -1,4 +1,4 @@
 ---
 layout: posts
-title: "Pests"
+title: "Posts"
 ---
