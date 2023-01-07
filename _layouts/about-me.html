@@ -9,7 +9,7 @@ layout: default
     <h3 class="fw-bold border-bottom pb-3 mb-5">Myeong Yoon</h3>
     <div class="row g-5 mb-5">
       <div class="col-md-2">
-        <h4>Current Interests</h4>
+        <h4 class="border-bottom">Current Interests</h4>
       </div>
       <div class="col-md-10">
         {% for section in site.data.about-me.current-interests %}
@@ -20,7 +20,7 @@ layout: default
     </div>
     <div class="row g-5 mb-5">
       <div class="col-md-2">
-        <h4>Education</h4>
+        <h4 class="border-bottom">Education</h4>
       </div>
       <div class="col-md-10">
         {% for section in site.data.about-me.education %}
@@ -31,3 +31,13 @@ layout: default
     </div>
   </div>
 </div>
+
+<div class="row g-5 mb-5">
+  <div>
+    <h4 class="border-bottom">Publications</h4>
+      {% for item in site.data.publications.index %}
+        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+    {% endif %}
+  </div>
+</div>
+
