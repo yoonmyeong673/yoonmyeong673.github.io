@@ -4,6 +4,7 @@ menu:
 - {name: 'PUBLICATIONS', url: '/publications'}
 - {name: 'CONTACT', url: '/contact'}
 - {name: 'TEST', url '/test'}
+- {name: 'TEST2', url '/test2'}
 
 courses:
 - {name: 'General Physics', url: 'general-physics'}
