@@ -6,7 +6,18 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">About Me</h3>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Myeong Yoon</h3>
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Current Interests</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.about-me.current-interests %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
     <div class="row g-5 mb-5">
       <div class="col-md-2">
         <h4>Education</h4>
@@ -20,10 +31,10 @@ layout: default
     </div>
     <div class="row g-5 mb-5">
       <div class="col-md-2">
-        <h4>Current Interests</h4>
+        <h4>Awards</h4>
       </div>
       <div class="col-md-10">
-        {% for section in site.data.about-me.current-interests %}
+        {% for section in site.data.about-me.awards %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
