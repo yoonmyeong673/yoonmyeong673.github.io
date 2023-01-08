@@ -3,10 +3,11 @@ layout: page
 title: "Differential Geometry"
 ---
 
-### Review Sheets on
-### Geometrical Methods of Mathematical Physics(Schutz, Bernard F.)
+### Notes
 
-[2. Differentiable Manifolds and Tensors](/archives/quantum-mechanics/Sample_Course_Outline.pdf)
+[Outline](/archives/quantum-mechanics/Sample_Course_Outline.pdf)
+
+[1. Manifold](/archives/quantum-mechanics/Sample_Course_Outline.pdf)
 
 [Course Outline](/courses/quantum-mechanics/Sample_Course_Outline.pdf)
 
