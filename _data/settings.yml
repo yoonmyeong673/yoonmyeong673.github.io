@@ -1,7 +1,6 @@
 menu:
 - {name: 'ABOUT ME', url: '/about-me'}
 - {name: 'ARCHIVES', url: '/archives'}
-- {name: 'POSTS', url: '/posts'}
 - {name: 'CONTACT', url: '/contact'}
 
 archives:
