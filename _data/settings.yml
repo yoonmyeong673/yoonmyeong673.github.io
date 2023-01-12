@@ -5,6 +5,7 @@ menu:
 
 archives:
 - {name: 'General Physics', url: 'general-physics'}
+- {name: 'Differential Geometry', url: 'differential-geometry'}
 
 social:
 - {icon: 'google', link: 'mailto:yoonmyeong673@gmail.com'}
