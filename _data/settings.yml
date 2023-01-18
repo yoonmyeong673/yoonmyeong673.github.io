@@ -4,7 +4,6 @@ menu:
 - {name: 'CONTACT', url: '/contact'}
 
 archives:
-- {name: 'General Physics', url: 'general-physics'}
 - {name: 'Differential Geometry', url: 'differential-geometry'}
 
 social:
