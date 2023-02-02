@@ -5,7 +5,7 @@ title: "Differential Geometry"
 
 #### Notes
 
-[Outline](/archives/quantum-mechanics/Sample_Course_Outline.pdf)
+[Part I: Manifolds](/archives/differential-geometry/n1.pdf)
 
 #### Posts
 
