@@ -6,6 +6,7 @@ title: "Differential Geometry"
 #### Notes
 
 [Part I: Manifolds](/archives/differential-geometry/n1.pdf)
+[Part II: Fields on Manifolds](/archives/differential-geometry/n2.pdf)
 
 #### Posts
 
