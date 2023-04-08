@@ -5,6 +5,7 @@ menu:
 
 archives:
 - {name: 'Differential Geometry', url: 'differential-geometry'}
+- {name: 'Problems', url: 'problems'}
 
 social:
 - {icon: 'google', link: 'mailto:yoonmyeong673@gmail.com'}
