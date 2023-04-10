@@ -4,7 +4,7 @@ menu:
 - {name: 'CONTACT', url: '/contact'}
 
 archives:
-- {name: 'Differential Geometry', url: 'differential-geometry'}
+- {name: 'Mathematics', url: 'mathematics'}
 - {name: 'Problems', url: 'problems'}
 
 social:
