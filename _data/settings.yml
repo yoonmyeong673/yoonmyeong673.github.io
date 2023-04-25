@@ -5,6 +5,7 @@ menu:
 
 archives:
 - {name: 'Mathematics', url: 'mathematics'}
+- {name: 'Classical Mechanics', url: 'classical-mechanics'}
 - {name: 'Problems', url: 'problems'}
 
 social:
