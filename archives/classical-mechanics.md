@@ -9,7 +9,7 @@ title: "Classical Mechanics"
 
 [Chapter 1: Experimental Facts](/archives/classical-mechanics/arnold/c1.pdf)
 
-[Chapter 2: Investigation of the Equations of Motion](/archives/classical-mechanics/arnold/c1.pdf)
+[Chapter 2: Investigation of the Equations of Motion](/archives/classical-mechanics/arnold/c2.pdf)
 
 ##### Part II: Lagrangian Mechanics
 
