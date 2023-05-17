@@ -15,6 +15,7 @@ title: "Classical Mechanics"
 
 ##### Part III: Hamiltonian Mechanics
 
+
 #### Solutions for problems of V. I. Arnold, Mathematical Methods of Classical Mechanics
 
 ##### Part I: Newtonian Mechanics
