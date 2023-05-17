@@ -13,8 +13,7 @@ title: "Classical Mechanics"
 
 ##### Part II: Lagrangian Mechanics
 
-##### Part III: Hamiltonian Mechanics
-
+##### Part III: Hamiltonian Mechanics  
 
 #### Solutions for problems of V. I. Arnold, Mathematical Methods of Classical Mechanics
 
