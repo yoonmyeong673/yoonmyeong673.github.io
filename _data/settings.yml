@@ -6,6 +6,7 @@ menu:
 archives:
 - {name: 'Mathematics', url: 'mathematics'}
 - {name: 'Classical Mechanics', url: 'classical-mechanics'}
+- {name: 'Electromagnetism', url: 'electromagnetism'}
 - {name: 'Problems', url: 'problems'}
 
 social:
