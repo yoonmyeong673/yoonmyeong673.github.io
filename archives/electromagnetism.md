@@ -5,6 +5,6 @@ title: "Electromagnetism"
 
 #### Electromagnetism
 
-* [Boundary Problems in Electrostatics](/archives/p1.pdf)
+* [Boundary Problems in Electrostatics](/archives/electromagnetism/p1.pdf)
 
-* [Multipole Expansion of Electrostatic Potential](/archives/p2.pdf)
+* [Multipole Expansion of Electrostatic Potential](/archives/electromagnetism/p2.pdf)
