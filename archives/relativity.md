@@ -3,6 +3,6 @@ layout: page
 title: "Relativity"
 ---
 
-#### Relativity
+#### Special Relativity
 
 * [Penrose--Terrell Rotation](/archives/relativity/penrose_rotation.pdf)
