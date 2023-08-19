@@ -9,6 +9,7 @@ archives:
 - {name: 'Electromagnetism', url: 'electromagnetism'}
 - {name: 'Relativity', url: 'relativity'}
 - {name: 'Problems', url: 'problems'}
+- {name: 'PNS Lecture Notes', url: 'pns-lecture-notes'}
 
 social:
 - {icon: 'google', link: 'mailto:yoonmyeong673@gmail.com'}
