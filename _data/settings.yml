@@ -7,6 +7,7 @@ archives:
 - {name: 'Mathematics', url: 'mathematics'}
 - {name: 'Classical Mechanics', url: 'classical-mechanics'}
 - {name: 'Electromagnetism', url: 'electromagnetism'}
+- {name: 'Quamtum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Relativity', url: 'relativity'}
 - {name: 'Problems', url: 'problems'}
 - {name: 'PNS Lecture Notes', url: 'pns-lecture-notes'}
