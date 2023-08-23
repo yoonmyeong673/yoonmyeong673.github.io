@@ -11,4 +11,4 @@ title: "Quantum Mechanics"
 
 &nbsp;
 
-#### Solutions for problems of V. I. Arnold, Mathematical Methods of Classical Mechanics
+#### Solutions for problems of R. Shankar, Principles of Quantum Mechanics (2nd Edition)
