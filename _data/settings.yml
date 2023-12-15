@@ -1,5 +1,5 @@
 menu:
-- {name: 'ABOUT ME', url: '/about-me'}
+- {name: 'CURRICULUM VITAE', url: '/cv'}
 - {name: 'ARCHIVES', url: '/archives'}
 - {name: 'CONTACT', url: '/contact'}
 

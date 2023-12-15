@@ -1,4 +1,4 @@
 ---
-layout: about-me
-title: "About Me"
+layout: cv
+title: "Curriculum Vitae"
 ---

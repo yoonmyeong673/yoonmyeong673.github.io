@@ -12,7 +12,7 @@ layout: default
         <h4 class="border-bottom">Current Interests</h4>
       </div>
       <div class="col-md-10">
-        {% for section in site.data.about-me.current-interests %}
+        {% for section in site.data.cv.current-interests %}
           <p>{{ section.title }}</p>
         {% endfor %}
       </div>
@@ -22,7 +22,7 @@ layout: default
         <h4 class="border-bottom">Education</h4>
       </div>
       <div class="col-md-10">
-        {% for section in site.data.about-me.education %}
+        {% for section in site.data.cv.education %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
@@ -33,7 +33,7 @@ layout: default
         <h4 class="border-bottom">Honors & Awards</h4>
       </div>
       <div class="col-md-10">
-        {% for section in site.data.about-me.honors %}
+        {% for section in site.data.cv.honors %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
@@ -44,7 +44,7 @@ layout: default
         <h4 class="border-bottom">Experiences</h4>
       </div>
       <div class="col-md-10">
-        {% for section in site.data.about-me.experiences %}
+        {% for section in site.data.cv.experiences %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
