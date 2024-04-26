@@ -1,11 +1,11 @@
-- title: 'Advanced Placement (AP) Calculus BC'
-  description: '5'
+- title: '5 in Advanced Placement (AP) Calculus BC'
+#  description: '5'
 
-- title: 'Advanced Placement (AP) Physics C: Mechanics'
-  description: '5'
+- title: '5 in Advanced Placement (AP) Physics C: Mechanics'
+#  description: '5'
 
-- title: 'Advanced Placement (AP) Physics C: Electricity and Magnetism'
-  description: '5'
+- title: '5 in Advanced Placement (AP) Physics C: Electricity and Magnetism'
+#  description: '5'
 
-- title: 'Korean Physics Certification'
-  description: 'Level-I certificate'
+- title: 'Level-I in Korean Physics Certification'
+#  description: 'Level-I certificate'
