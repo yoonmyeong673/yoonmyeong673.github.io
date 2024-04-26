@@ -45,8 +45,7 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.qualifications %}
-          <p>{{ section.description } { section.title }}</p>
-          <p>{{ section.description }}</p>
+          <p><strong>{{ section.description }}</strong> in {{ section.title }}</p>
         {% endfor %}
       </div>
     </div>
