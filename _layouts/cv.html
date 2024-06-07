@@ -30,6 +30,17 @@ layout: default
     </div>
     <div class="row g-5 mb-5">
       <div class="col-md-2">
+        <h4 class="border-bottom">Select Honors & Awards</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.s-honors %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
         <h4 class="border-bottom">Honors & Awards</h4>
       </div>
       <div class="col-md-10">
