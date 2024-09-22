@@ -13,6 +13,6 @@ title: "Mathematics"
 
 #### Vector Calculus
 
-* [Ricci Notation](/archives/vector-calculus/ricci_notation.pdf)
+* [Ricci Notation](/archives/vector-calculus/p1.pdf)
 
 * [Vector Calculus Identities](/archives/vector-calculus/vector_calculus_identities.pdf)
