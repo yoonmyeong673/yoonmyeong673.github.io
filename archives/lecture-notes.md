@@ -3,7 +3,7 @@ layout: page
 title: "Lecture Notes"
 ---
 
-#### PNS (Physicists' Nobel Society)
+#### PNS (Physicists' Noble Society)
 
 * [Formalisms of Classical Mechanics (ko)](/archives/lecture-notes/Formalisms_of_Classical_Mechanics.pdf)
 
