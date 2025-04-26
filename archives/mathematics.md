@@ -15,7 +15,7 @@ title: "Mathematics"
 
 * [Part II: Fields on Manifolds](/archives/differential-geometry/n2.pdf)
 
-* [Introduction to Tensors in a Nutshell(ko)](/archives/differential-geometry/p2.pdf)
+%* [Introduction to Tensors in a Nutshell(ko)](/archives/differential-geometry/p2.pdf)
 
 ##### Vector Calculus
 
