@@ -7,6 +7,8 @@ title: "Mathematics"
 
 * [Chapter 1: Finite Groups](/archives/mathematics/rn-Georgi-ch1.pdf)
 
+* [Chapter 1: Lie Groups](/archives/mathematics/rn-Georgi-ch2.pdf)
+
 #### Original Notes
 
 ##### Differential Geometry
