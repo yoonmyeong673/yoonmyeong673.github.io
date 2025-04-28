@@ -3,7 +3,9 @@ layout: page
 title: "Mathematics"
 ---
 
-#### Revision Notes on Lie Algebras in Particle Physics (2nd Edition) by Georgi, H.
+#### Revision Notes
+
+##### Lie Algebras in Particle Physics (2nd Edition) by Georgi, H.
 
 * [Chapter 1: Finite Groups](/archives/mathematics/rn-Georgi-ch1.pdf)
 
