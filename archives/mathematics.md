@@ -11,6 +11,8 @@ title: "Mathematics"
 
 * [Chapter 2: Lie Groups](/archives/mathematics/rn-Georgi-ch2.pdf)
 
+* [Chapter 3: SU(2)](/archives/mathematics/rn-Georgi-ch3.pdf)
+
 #### Original Notes
 
 ##### Differential Geometry
