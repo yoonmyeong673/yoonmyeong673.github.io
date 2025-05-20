@@ -13,7 +13,7 @@ title: "Mathematics"
 
 * [Chapter 3: SU(2)](/archives/mathematics/rn-Georgi-ch3.pdf)
 
-* [Chapter 6: Roots and Weights](/archives/mathematics/rn-Georgi-ch6.pdf)
+* [Chapter 6: Roots and Weights & Chapter 7: SU(3)](/archives/mathematics/rn-Georgi-ch6.pdf)
 
 #### Original Notes
 
